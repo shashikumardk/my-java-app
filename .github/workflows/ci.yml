@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - feature-gitea
 
   pull_request:
     branches:
